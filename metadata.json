@@ -1,0 +1,6 @@
+{
+  "name": "Hossana Furniture",
+  "description": "A premium modern Ethiopian furniture store offering luxury hand-finished solid hardwoods, custom sofas, and elegant interior design collections.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
